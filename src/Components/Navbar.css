@@ -1,0 +1,30 @@
+.section {
+    display: flex;
+    justify-items: start;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #ffffff;
+}
+.section li {
+    display: flex;
+    list-style: none;
+}
+.section .figure{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+.section .sectionnav{
+    display: flex;
+    gap: 3.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.section .sectionicon{
+    display: flex;
+    gap: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    align-items: end;
+}
