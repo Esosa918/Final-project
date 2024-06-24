@@ -16,22 +16,22 @@ export const routerData = [
     },
     {
         id: 2,
-        to: '/',
+        to: '/shop',
         text:'Shop',
         element: <Shop />
     },
     {
         id: 3,
-        to: '/',
+        to: '/about',
         text:'About',
         element: <About />
     },
     {
         id: 4,
-        to: '/',
+        to: '/contact',
         text:'Contact',
         element: <Contact />
-    },
+    }
    
 ]
 export default routerData
