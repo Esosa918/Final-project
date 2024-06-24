@@ -7,7 +7,7 @@ import Hand from "../Logo/shipping.svg"
 import Call from "../Logo/Vector2.svg"
 import Dasharrow from "../Logo/Vectorarrow.svg"
 
-const ProductComparison = () => {
+const Productcomparison = () => {
   return (
     <div>
         <section className='contactpart1'>
@@ -53,4 +53,4 @@ const ProductComparison = () => {
   )
 }
 
-export default ProductComparison
+export default Productcomparison
