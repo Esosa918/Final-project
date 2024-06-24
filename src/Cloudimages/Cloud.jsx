@@ -30,3 +30,34 @@ export const Part4 = {
     pingky: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Project%20E-C/Our%20product/h0to9vhdjobrzdaqomma",
     potty: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Project%20E-C/Our%20product/asc8dbxvilcjzeyvf5gj"
 }
+export const Blog = {
+    Rectangle1: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Blog/o3hhdm915kzr276qhb9i",
+    Rectangle2: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Blog/jol97f8oclsg3szgvf8o",
+    Rectangle3: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Blog/olxnfcfd2i1kwhxqkhqq",
+    Rectangle4: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Blog/py0d9ohebyxtgzbbk9kr",
+    Rectangle5: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Blog/mgc1o0p3szvag6bpqbae",
+    Rectangle6: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Blog/onvcytvq75p3w8kxbaoh",
+    Rectangle7: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Blog/iczluxfr3fzijrnzhmpx",
+    Rectangle8: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Blog/ssel06y0tabrtihykjsh"
+}
+export const Cart = {
+    Asagaardasofa3: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Cart/dltdyayqaajxs7t31em5"
+}
+export const Cartsidebar = {
+    Asagaardasofa5: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Cart%20sidebar/ssoelde1x02l2bavwbce"
+}
+export const ProductCompersion = {
+    Group157: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Product%20Comperison/fzirxbomutpjhdrstcjm"
+}
+export const  SingleProduct = {
+    Cloudsofa1: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Single%20product/lybw9h9igowpeunfbvyf",
+    Outdoorsofa1: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Single%20product/irrbv1bdupptzmzkarpo",
+    Cloudsofa2: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Single%20product/ccuvndodoatxpzcger0l",
+    Outdoorsofa2: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Single%20product/g6fntahhyrzdp9n4iv9f",
+    Staurtsofa: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Single%20product/ipy7czywlgoovlvd5ot5",
+    Mayasofa: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Single%20product/ov1fbbirrdsx5p0sehzr",
+}
+export const Background = {
+    Rectangle: "https://res.cloudinary.com/dn61rvaob/image/upload/f_auto,q_auto/v1/Final%20Project/Background%20and%20Icon/ziyu9dvqfo0dhz0x1a7q",
+}
+
